@@ -1,0 +1,4 @@
+- 👋 Olá, Meu nome é @WebertGaleli
+- 👀  Estou interessado em uma oportunidade na area da tecnologia para adquirir experiencia.
+- 🌱  Atualmente estou retornando o curso de Ciencia da computação, em paralelo para adquirir e evoluir algumas hards skills, HTML, CSS, JavaScript, PHP, NoSQL, MongoDB..
+- 📫 Como entrar em contato comigo: webertgalleli@gmail.com
